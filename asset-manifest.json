@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project_amo_test-1-timer/static/css/main.412e403d.css",
+    "main.js": "/project_amo_test-1-timer/static/js/main.d71025f7.js",
+    "index.html": "/project_amo_test-1-timer/index.html",
+    "main.412e403d.css.map": "/project_amo_test-1-timer/static/css/main.412e403d.css.map",
+    "main.d71025f7.js.map": "/project_amo_test-1-timer/static/js/main.d71025f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412e403d.css",
+    "static/js/main.d71025f7.js"
+  ]
+}
